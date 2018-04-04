@@ -1,0 +1,16 @@
+HOW TO USE:
+
+FOR THE PROGRAM TO WORK:
+When starting the program, please Select a picture as Body.
+Do the same for another as signature.
+This needs to be done otherwise the app crashes.
+
+Type in text as body and farewell.
+The design will be Text-Picture-Text-Signature.
+The REFRESH BUTTON clears everything
+
+An orientation can also be chosen for the picture.
+
+NOTE:
+The program will register the picture as aligned "left" by default.
+The alignment needs to be re-selected after a REFRESH.

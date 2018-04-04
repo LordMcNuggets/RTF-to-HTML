@@ -1,0 +1,12 @@
+C:\Users\Emmanuel\Desktop\Blanche Birger - RTF to HTML\Mailer\Mailer form\Mailer form\bin\Debug\Mailer form.exe.config
+C:\Users\Emmanuel\Desktop\Blanche Birger - RTF to HTML\Mailer\Mailer form\Mailer form\bin\Debug\Mailer form.exe
+C:\Users\Emmanuel\Desktop\Blanche Birger - RTF to HTML\Mailer\Mailer form\Mailer form\bin\Debug\Mailer form.pdb
+C:\Users\Emmanuel\Desktop\Blanche Birger - RTF to HTML\Mailer\Mailer form\Mailer form\bin\Debug\Mailer form.xml
+C:\Users\Emmanuel\Desktop\Blanche Birger - RTF to HTML\Mailer\Mailer form\Mailer form\obj\Debug\Mailer form.vbprojResolveAssemblyReference.cache
+C:\Users\Emmanuel\Desktop\Blanche Birger - RTF to HTML\Mailer\Mailer form\Mailer form\obj\Debug\Mailer_form.Form1.resources
+C:\Users\Emmanuel\Desktop\Blanche Birger - RTF to HTML\Mailer\Mailer form\Mailer form\obj\Debug\Mailer_form.Resources.resources
+C:\Users\Emmanuel\Desktop\Blanche Birger - RTF to HTML\Mailer\Mailer form\Mailer form\obj\Debug\Mailer form.vbproj.GenerateResource.Cache
+C:\Users\Emmanuel\Desktop\Blanche Birger - RTF to HTML\Mailer\Mailer form\Mailer form\obj\Debug\Mailer form.vbproj.CoreCompileInputs.cache
+C:\Users\Emmanuel\Desktop\Blanche Birger - RTF to HTML\Mailer\Mailer form\Mailer form\obj\Debug\Mailer form.exe
+C:\Users\Emmanuel\Desktop\Blanche Birger - RTF to HTML\Mailer\Mailer form\Mailer form\obj\Debug\Mailer form.xml
+C:\Users\Emmanuel\Desktop\Blanche Birger - RTF to HTML\Mailer\Mailer form\Mailer form\obj\Debug\Mailer form.pdb
